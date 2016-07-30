@@ -1,0 +1,10 @@
+.nav li{
+  display: inline;
+}
+table {
+  border: 2px black auto;
+}
+table th {
+  border-color: black;
+  border-bottom: 2px;
+}
