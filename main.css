@@ -8,3 +8,9 @@ table th {
   border-color: black;
   border-bottom: 2px;
 }
+
+.jumbotron {
+  background-image: url("https://lh3.googleusercontent.com/pNVHxfvGZU4_XxpxaFx0MNCS2_8lk-g2jse42KXlzXgBLatEg9SJs4LkShe0v82d-Crz_aA-UMj_ba67JOkOXePFl05iige-8uYLrdtDHCWH0kmCHHuZspTNdAnaDFP9BClOgXB-_33pFnOYZGo8_sjcOYq4sVEoVzdnsVkDG84BPD9hMMSALjopo2t_yU4vZ1gFSe4SRBckm7JkWwPmzi7wmDsCUZnbbz2hl-hhtgcNOiOqgdS74DSiZvgLjO6DbmMnekDB3x38wsB7gmam9D6u9VprQN6nsyFR6Fa3R-4pnVG9fuUK9rwKlIpjaqJs3VFoNgrDqvEBSnRh-uYYGOUwgLHJVl3OH61gDvVkW3S3X_FSOM-y-zyX5BxUevWS85v1YN36zTy0Qep-UdSTiRzvBgsmO9gC4vh0nwvDJ9SADPZ9cZI4R4r4xVp5faiqZjuGLWzk3G0vCbr9Mi9wSdsmYTrngZ-tJxnaQhrsVwecPaBnRZSqWK5yAqQzQSKhL-nNXhsrp9wiy21t7rqGwTzrYvldGvAIiDBIPWYZw18X7ZNam5JfmKI3x0KMf4GW6gUbKQ2QeEfIx4PvWRA5qCzDiro--gs=w1495-h935-no");
+  background-size: contain;
+  height: 300px;
+}
