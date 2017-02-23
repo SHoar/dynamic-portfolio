@@ -23,6 +23,7 @@ nav li{
   margin: 0 auto;
   display: inline;
   padding: 0 5px 0 5px;
+  list-style: none;
 }
 nav li a {
   font-family: Helvetica, sans-serif;
