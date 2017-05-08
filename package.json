@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/SHoar/portfolio#readme",
   "dependencies": {
-    "browserify": "^14.1.0"
+    "browserify": "^14.1.0",
+    "express": "^4.15.1"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"

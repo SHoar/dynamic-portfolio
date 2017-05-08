@@ -7,9 +7,7 @@ h1,h2,p,li,a,span {
   color: #000;
 }
 section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: grid;
 }
 
 /***********************
@@ -91,7 +89,7 @@ nav li .active {
 ***********************/
 
 .showcase {
-  background: #c5f5c5;
+  background: blue;
   padding: 20px;
   margin-top: 10px;
   margin-bottom: 0;

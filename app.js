@@ -7,7 +7,7 @@ const port = 3000
 app.use(express.static(path.join(__dirname, 'pages')))
 
 app.get('/', function(req,res){
-  res.render(index)
+  res.render(template)
 })
 
 app.listen( port , function (){
